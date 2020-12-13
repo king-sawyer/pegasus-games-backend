@@ -35,7 +35,6 @@ productsRouter
       img,
       featured,
     } = req.body;
-    console.log(req.body);
 
     const newProduct = {
       title,
