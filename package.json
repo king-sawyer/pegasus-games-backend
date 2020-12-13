@@ -2,7 +2,7 @@
   "name": "pegasus-games-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
     "test": "mocha --require test/setup.js",
