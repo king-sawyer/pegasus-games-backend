@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "test": "mocha --require test/setup.js",
     "dev": "nodemon src/server.js",
     "predeploy": "npm audit",
