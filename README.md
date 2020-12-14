@@ -7,4 +7,5 @@ This is an express project that is used in conjunction with [this repo](https://
 This project utelizes different epxress techniques including:
 - Routers
 - Service objects to connect with databases and tables
+- Environment variables to maintain secure programming 
 - Heroku to host and maintain the service
